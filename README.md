@@ -7,8 +7,8 @@ Olá! Eu sou o Bruno Mattos.
 
 <div>
   <a href="https://github.com/Gomes1642">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gomes1642&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomes1642&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gomes1642&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomes1642&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
   <div>
