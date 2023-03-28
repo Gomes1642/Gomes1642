@@ -1,9 +1,9 @@
 
 Olá! Eu sou o Bruno Mattos.
 
-
-- 💻 Hoje trabalho no Administrativo-financeiro do Grupo Moura.
 - 📚 Estudando Java.
+- 💻 Hoje trabalho no Administrativo-financeiro do Grupo Moura.
+- 👨‍🎓 Estou cursando o quarto período de ciência da computação na Universidade Estácio de Sá.
 
 <div>
   <a href="https://github.com/Gomes1642">
